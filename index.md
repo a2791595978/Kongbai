@@ -42,3 +42,6 @@ layout: default
 # 官方联系QQ：2791595978
 
 ## 体验群：597806602
+
+# 空白工作室图标：
+![9487af389b504fc2f80afbd6efdde71191ef6d31.jpg](http://imgsrc.baidu.com/forum/pic/item/9487af389b504fc2f80afbd6efdde71191ef6d31.jpg)
