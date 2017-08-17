@@ -2,122 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+大家好，欢迎来到空白工作室官网，我是空白工作室的室长 空白君，即本网页的拥有者。
 
-[Link to another page](another-page).
+空白工作室目前有3种
 
-There should be whitespace between paragraphs.
+空白工作室MC总部
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+空白工作室王者荣耀总部
 
-# [](#header-1)Header 1
+空白工作室编程总部（小盖工作室旗下）
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+室长QQ：2791595978
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+群号：
+>2级总部：
+>MC总部：580679986
+>王者荣耀总部：663670847
+>编程总部：64083718
 
 
-### Definition lists can be used with HTML syntax.
+另外本工作室还有推出QQ机器人：
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+价格如下：
+>1元1天
+>5元1周
+>15元1月
+>150元1年
+>相当于买5天送2天 买15天送16天 买150天送236天
+>买的越多送的越多
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+#官方联系QQ：2791595978
+##体验群：597806602
