@@ -19,13 +19,13 @@ layout: default
 群号：
 >2级总部：
 
->MC总部：580679986
+>MC总部：580679986<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=df72fa53451baa2226de15e5530d3526f964218c4452cc3862745f54def19bf0"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室MC总部" title="空白工作室MC总部"></a>
 
->王者荣耀总部：663670847
+>王者荣耀总部：663670847<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fbea7e70f5107e66c39d580058db55f44a4368dc2f43da304b1b21e3a6243bfa"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室王者总部" title="空白工作室王者总部"></a>
 
->编程总部：64083718
+>编程总部：64083718<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c086bc47031f8f5f79e3359cb72265538c6f0f1a3dfca39a5b457019766fdf2d"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室编程总部" title="空白工作室编程总部"></a>
 
->迷你世界总部：189420537
+>迷你世界总部：189420537<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9b398a1b961c6b288c4785bcfe9bc5d39694920b9c40ec3836d14e0cace4e8df"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室 迷你 总部" title="空白工作室 迷你 总部"></a>
 
 1级总部：
 >内部审核群：63411066<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c589c7481930e9498e01e0f6ba037c9b469ed0dda725149d6dcf4d7b1001b17b"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室内部审核群" title="空白工作室内部审核群"></a>
