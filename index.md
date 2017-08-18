@@ -28,7 +28,7 @@ layout: default
 >迷你世界总部：189420537
 
 1级总部：
->内部审核群：63411066[加群点我](<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c589c7481930e9498e01e0f6ba037c9b469ed0dda725149d6dcf4d7b1001b17b"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室内部审核群" title="空白工作室内部审核群"></a>)
+>内部审核群：63411066<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c589c7481930e9498e01e0f6ba037c9b469ed0dda725149d6dcf4d7b1001b17b"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="空白工作室内部审核群" title="空白工作室内部审核群"></a>
 
 
 另外本工作室还有推出QQ机器人：
