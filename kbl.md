@@ -32,7 +32,7 @@ layout: default
 
 ## 现在我们招收代理：
 
-[想要报名的请点我](a2791595978.github.io/Kongbai/dl)
+[想要报名的请点我](a2791595978.github.io/Kongbai/kbldl)
 
 
 
