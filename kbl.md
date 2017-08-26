@@ -32,9 +32,9 @@ layout: default
 
 ## 现在我们招收代理：
 
-[想要报名的请点我](zhengzaiweihu)
+[想要报名的请点我](https://a2791595978.github.io/Kongbai/kbldl)
 
 
 
 
-[点我返回空白工作室官网](Kongbai)
+[点我返回空白工作室官网](https://a2791595978.github.io/Kongbai/)
