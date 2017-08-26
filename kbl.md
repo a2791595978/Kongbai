@@ -38,3 +38,6 @@ layout: default
 
 
 ## [点我返回空白工作室官网](https://a2791595978.github.io/Kongbai/)
+
+# 可以在线联系我 QQ
+<img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=2791595978&o=???QQ?????&q=7', '_blank', 'height=502, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC=http://wpa.qq.com/pa?p=1:2791595978:1 alt="????????">
